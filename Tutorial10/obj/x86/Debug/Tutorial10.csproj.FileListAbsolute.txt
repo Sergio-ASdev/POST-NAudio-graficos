@@ -1,0 +1,19 @@
+D:\Tutorials\Tutorial10\Tutorial10\bin\Debug\Tutorial10.exe
+D:\Tutorials\Tutorial10\Tutorial10\bin\Debug\Tutorial10.pdb
+D:\Tutorials\Tutorial10\Tutorial10\bin\Debug\NAudio.dll
+D:\Tutorials\Tutorial10\Tutorial10\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tutorials\Tutorial10\Tutorial10\obj\x86\Debug\Tutorial10.Form1.resources
+D:\Tutorials\Tutorial10\Tutorial10\obj\x86\Debug\Tutorial10.Properties.Resources.resources
+D:\Tutorials\Tutorial10\Tutorial10\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Tutorials\Tutorial10\Tutorial10\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Tutorials\Tutorial10\Tutorial10\obj\x86\Debug\Tutorial10.exe
+D:\Tutorials\Tutorial10\Tutorial10\obj\x86\Debug\Tutorial10.pdb
+C:\Users\SergioArribasSanchez\source\repos\tutorial10 2\Tutorial10\Tutorial10\bin\Debug\Tutorial10.exe
+C:\Users\SergioArribasSanchez\source\repos\tutorial10 2\Tutorial10\Tutorial10\bin\Debug\Tutorial10.pdb
+C:\Users\SergioArribasSanchez\source\repos\tutorial10 2\Tutorial10\Tutorial10\obj\x86\Debug\Tutorial10.Form1.resources
+C:\Users\SergioArribasSanchez\source\repos\tutorial10 2\Tutorial10\Tutorial10\obj\x86\Debug\Tutorial10.Properties.Resources.resources
+C:\Users\SergioArribasSanchez\source\repos\tutorial10 2\Tutorial10\Tutorial10\obj\x86\Debug\Tutorial10.csproj.GenerateResource.cache
+C:\Users\SergioArribasSanchez\source\repos\tutorial10 2\Tutorial10\Tutorial10\obj\x86\Debug\Tutorial10.csproj.CoreCompileInputs.cache
+C:\Users\SergioArribasSanchez\source\repos\tutorial10 2\Tutorial10\Tutorial10\obj\x86\Debug\Tutorial10.csproj.CopyComplete
+C:\Users\SergioArribasSanchez\source\repos\tutorial10 2\Tutorial10\Tutorial10\obj\x86\Debug\Tutorial10.exe
+C:\Users\SergioArribasSanchez\source\repos\tutorial10 2\Tutorial10\Tutorial10\obj\x86\Debug\Tutorial10.pdb
